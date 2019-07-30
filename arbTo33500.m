@@ -1,4 +1,5 @@
 function arbTo33500(arb,IP,amp,sRate,name)
+%Just checking for github branch "update-arbto33500"
 %This function connects to a 33500A/B waveform generator and sends it an
 %arbitrary waveform from Matlab via LAN. The input arguments are as
 %follows:
